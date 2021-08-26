@@ -51,7 +51,7 @@ table {
 /* Style */
 body{
     font: 16px/28px arial, sans-serif;
-    background-image: url(../Img/Tulips.jpg);
+    background-image: url(Img/Tulips.jpg);
     background-size: cover;
     color: #333;
 }
